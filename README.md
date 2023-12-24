@@ -15,6 +15,7 @@ The steps followed in the analysis were:
 - 4. Null-values analysis
 - 5. Further study of the rest of the columns
 - 6. Results
+- 7. Write the Results
 
 ## Sources
 
@@ -43,6 +44,8 @@ There is a folder called notebook that contains all the necessary analysis.
 There is a requirements.txt that contains the information of the libraries used in this project.
 
 There is a .gitignore that allows to exclude files that are of no interest.
+
+There is a results_data folder that contains the filtered dataset from all the analysis. This final dataset is used in Tableau to carry out results representations. 
 
 There is a branch named feature/phase1 to work in the project and I have done a pull request to **develop**. This is the branch that contains all the updated information.
 
