@@ -1,9 +1,9 @@
 investigation_type,event_date,location,country,injury_severity,aircraft_damage,make,model,amateur_built,number_of_engines,engine_type,purpose_of_flight,total_fatal_injuries,total_serious_injuries,total_minor_injuries,total_uninjured,weather_condition,broad_phase_of_flight,report_status,primary_key,year,month
 Accident,1983-01-03,"HAILEY, ID",United States,Fatal,Destroyed,Canadair,CL-600-1A11,No,2.0,Turbo Fan,Executive/corporate,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,DCA83AA010_N805C,1983,01
 Accident,1983-01-07,"NEAR YAKIMA, WA",United States,Fatal,Unknown,Boeing,727,No,3.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,IMC,Climb,Probable Cause,SEA83LA039_N292WA,1983,01
-Accident,1983-01-09,"CHERRY POINT, NC",United States,Fatal,Substantial,Mcdonnell douglas,F4C,Yes,2.0,Turbo Jet,Public Aircraft,One or More,Zero,Zero,One or More,VMC,Maneuvering,Probable Cause,ATL83MA084B_AFNG,1983,01
+Accident,1983-01-09,"CHERRY POINT, NC",United States,Fatal,Substantial,Douglas,F4C,Yes,2.0,Turbo Jet,Public Aircraft,One or More,Zero,Zero,One or More,VMC,Maneuvering,Probable Cause,ATL83MA084B_AFNG,1983,01
 Accident,1983-01-09,"BRAINERD, MN",United States,Fatal,Substantial,Convair,580-11-A,No,2.0,Reciprocating,Unknown,One or More,One or More,Zero,One or More,IMC,Landing,Probable Cause,DCA83AA013_N8444H,1983,01
-Accident,1983-01-11,"DETROIT, MI",United States,Fatal,Destroyed,Mcdonnell douglas,DC-8-54F,No,4.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,DCA83AA014_N8053U,1983,01
+Accident,1983-01-11,"DETROIT, MI",United States,Fatal,Destroyed,Douglas,DC-8-54F,No,4.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,DCA83AA014_N8053U,1983,01
 Accident,1983-01-27,"SCOTTSDALE, AZ",United States,Fatal,Destroyed,Mitsubishi,MU-2B-60,No,2.0,Turbo Prop,Personal,One or More,One or More,Zero,Zero,VMC,Descent,Probable Cause,LAX83FA083_N440MA,1983,01
 Accident,1983-02-03,"SUNBURY, PA",United States,Fatal,Destroyed,Aero commander,680FL P,Yes,2.0,Reciprocating,Business,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,NYC83FA060_N12LF,1983,02
 Accident,1983-02-13,"WINTER HAVEN, FL",United States,Fatal,Destroyed,Rockwell,690A,No,2.0,Turbo Prop,Personal,One or More,One or More,Zero,Zero,IMC,Takeoff,Probable Cause,MIA83FA074_N81416,1983,02
@@ -90,7 +90,7 @@ Accident,1985-05-09,"LEWISTOWN, MT",United States,Fatal,Substantial,Consolidated
 Accident,1985-05-31,"NASHVILLE, TN",United States,Fatal,Destroyed,Gulfstream,G-159,No,2.0,Turbo Prop,Unknown,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,ATL85MA177_N181TG,1985,05
 Accident,1985-06-11,"BELMAR, NJ",United States,Fatal,Substantial,Sikorsky,S76A,No,2.0,Turbo Shaft,Executive/corporate,One or More,One or More,One or More,Unknown,VMC,Maneuvering,Probable Cause,NYC85FA145A_N176FJ,1985,06
 Accident,1985-06-19,"ROCKSPRINGS, TX",United States,Fatal,Destroyed,Swearingen,SA-26AT,No,2.0,Turbo Prop,Executive/corporate,One or More,Zero,Zero,Zero,VMC,Climb,Probable Cause,FTW85FA259_N199TA,1985,06
-Accident,1985-06-20,"BIRMINGHAM, AL",United States,Fatal,Destroyed,Mcdonnell douglas,RF-4C,No,2.0,Turbo Jet,Unknown,One or More,Zero,One or More,Zero,VMC,Landing,Probable Cause,DCA85AA026B_AFNG,1985,06
+Accident,1985-06-20,"BIRMINGHAM, AL",United States,Fatal,Destroyed,Douglas,RF-4C,No,2.0,Turbo Jet,Unknown,One or More,Zero,One or More,Zero,VMC,Landing,Probable Cause,DCA85AA026B_AFNG,1985,06
 Accident,1985-06-22,"HEBER CITY, UT",United States,Fatal,Destroyed,Killian,BRIEGLEB BG-12B,Yes,0.0,Unknown,Personal,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,DEN85FTM03_N997,1985,06
 Accident,1985-06-24,"CALLAHAN, CA",United States,Fatal,Destroyed,Rolladen-schneider,LS3-A,No,0.0,Unknown,Unknown,One or More,Zero,Zero,Zero,VMC,Unknown,Probable Cause,LAX85FA293_N31JN,1985,06
 Incident,1985-07-02,"BOSTON, MA",United States,Non-fatal,Unknown,Douglas,DC-9,No,2.0,Turbo Jet,Unknown,Zero,One or More,Zero,One or More,VMC,Climb,Probable Cause,NYC85FA260_N968BJ,1985,07
@@ -140,7 +140,7 @@ Accident,1986-08-02,"BEDFORD, IN",United States,Fatal,Destroyed,Hawker siddeley,
 Accident,1986-08-08,"DUXSBURY, VT",United States,Fatal,Destroyed,Aero commander,680FL,No,2.0,Reciprocating,Unknown,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,NYC86FA201_N6341U,1986,08
 Accident,1986-08-24,"MIDDLETOWN, NY",United States,Fatal,Destroyed,Schempp-hirth,VENTUS A,No,0.0,Unknown,Personal,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,NYC86FHM03_N7XT,1986,08
 Accident,1986-08-28,"TEXARKANA, AR",United States,Fatal,Destroyed,Lockheed,18-56 (HOWARD 250),No,2.0,Reciprocating,Unknown,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,MKC86FA179_N252K,1986,08
-Accident,1986-08-31,"CERRITOS, CA",United States,Fatal,Destroyed,Mcdonnell douglas,DC-9-32,No,2.0,Turbo Fan,Unknown,One or More,Zero,One or More,Zero,VMC,Descent,Probable Cause,DCA86AA041A_XAJED,1986,08
+Accident,1986-08-31,"CERRITOS, CA",United States,Fatal,Destroyed,Douglas,DC-9-32,No,2.0,Turbo Fan,Unknown,One or More,Zero,One or More,Zero,VMC,Descent,Probable Cause,DCA86AA041A_XAJED,1986,08
 Accident,1986-09-23,"GALAX, VA",United States,Fatal,Destroyed,Bell,222UT,No,2.0,Turbo Shaft,Unknown,One or More,Zero,Zero,Zero,IMC,Cruise,Probable Cause,ATL86FA264_N251CC,1986,09
 Accident,1986-10-04,"KELLY AFB, TX",United States,Fatal,Destroyed,Lockheed,382G,No,4.0,Turbo Prop,Unknown,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,DCA87AA002_N15ST,1986,10
 Accident,1986-10-09,"BOSTON, MA",United States,Fatal,Unknown,Lockheed,L188A,No,4.0,Turbo Prop,Unknown,Unknown,One or More,Unknown,One or More,VMC,Standing,Probable Cause,NYC87LA010_N342HA,1986,10
@@ -164,12 +164,12 @@ Accident,1987-06-24,"HILLIARD, FL",United States,Fatal,Destroyed,Rockwell,690A,N
 Accident,1987-07-04,"VENICE, LA",United States,Fatal,Destroyed,Aerospatiale,AS-355-F1,No,2.0,Turbo Shaft,Unknown,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,FTW87FA156_N5796M,1987,07
 Accident,1987-07-22,"ASHLAND, OR",United States,Fatal,Destroyed,Aero commander,560-A,No,2.0,Reciprocating,Personal,One or More,Zero,Zero,Zero,IMC,Maneuvering,Probable Cause,SEA87FA149_N2794B,1987,07
 Accident,1987-08-11,"WASHINGTON, DC",United States,Fatal,Unknown,Boeing,747-200B,No,4.0,Turbo Fan,Unknown,One or More,Zero,Zero,One or More,VMC,Standing,Probable Cause,BFO87FA053_JA182,1987,08
-Accident,1987-08-16,"ROMULUS, MI",United States,Fatal,Destroyed,Mcdonnell douglas,DC-9-82,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,Zero,VMC,Takeoff,Probable Cause,DCA87MA046_N312RC,1987,08
+Accident,1987-08-16,"ROMULUS, MI",United States,Fatal,Destroyed,Douglas,DC-9-82,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,Zero,VMC,Takeoff,Probable Cause,DCA87MA046_N312RC,1987,08
 Accident,1987-10-12,"POMPANO BEACH, FL",United States,Fatal,Destroyed,Rockwell,700,No,2.0,Reciprocating,Personal,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,MIA88FA007_N26574,1987,10
 Accident,1987-10-15,"RANCHO MURIETA, CA",United States,Fatal,Destroyed,Dassault-breguet,DA 10,No,2.0,Turbo Fan,Positioning,One or More,Zero,Zero,Zero,VMC,Maneuvering,Probable Cause,LAX88FA015_N121FJ,1987,10
 Accident,1987-10-23,"OSHTEMO TOWNSHP, MI",United States,Fatal,Destroyed,"Smith, ted aerostar",AEROSTAR 600,No,2.0,Reciprocating,Unknown,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,CHI88FA010_N554AC,1987,10
 Accident,1987-10-31,"DESERT CENTER, CA",United States,Fatal,Destroyed,Britten-norman,BN2A-26,No,2.0,Reciprocating,Ferry,One or More,Zero,Zero,Zero,IMC,Maneuvering,Probable Cause,LAX88FA065_N25MR,1987,10
-Accident,1987-11-15,"DENVER, CO",United States,Fatal,Destroyed,Mcdonnell douglas,DC-9-14,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,IMC,Takeoff,Probable Cause,DCA88MA004_N626TX,1987,11
+Accident,1987-11-15,"DENVER, CO",United States,Fatal,Destroyed,Douglas,DC-9-14,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,IMC,Takeoff,Probable Cause,DCA88MA004_N626TX,1987,11
 Accident,1987-12-05,"LEXINGTON, KY",United States,Fatal,Destroyed,Hawker siddeley,HS-125-400A,No,2.0,Turbo Jet,Business,One or More,One or More,One or More,Zero,VMC,Cruise,Probable Cause,ATL88MA053_N400PH,1987,12
 Accident,1987-12-07,"SAN LUIS OBISPO, CA",United States,Fatal,Destroyed,British aerospace,BAE-146-200,No,4.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,DCA88MA008_N350PS,1987,12
 Accident,1988-01-08,"MONROE, LA",United States,Fatal,Destroyed,Gates learjet,36A,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,FTW88MA047_N79SF,1988,01
@@ -209,12 +209,12 @@ Accident,1988-12-23,"Midway Islands, PO",United States,Fatal,Unknown,Boeing,747S
 Accident,1989-01-02,"MANSFIELD, OH",United States,Fatal,Destroyed,Mitsubishi,MU-2B,No,2.0,Turbo Prop,Personal,One or More,Zero,Zero,Zero,IMC,Approach,Probable Cause,ATL89FA065_N500V,1989,01
 Accident,1989-01-12,"TIPP CITY, OH",United States,Fatal,Destroyed,Hawker siddeley,HS.748 SERIES 2A,No,2.0,Turbo Prop,Unknown,One or More,Zero,Zero,Zero,IMC,Takeoff,Probable Cause,ATL89MA072_CGDOV,1989,01
 Accident,1989-01-26,"SPARTANSBURG, PA",United States,Fatal,Destroyed,Grumman,GA-7,No,2.0,Reciprocating,Personal,One or More,Zero,Zero,Zero,IMC,Cruise,Probable Cause,NYC89FA073_N115DS,1989,01
-Accident,1989-02-09,"SALT LAKE CITY, UT",United States,Fatal,Unknown,Mcdonnell douglas,DC-9-32F,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,One or More,VMC,Climb,Probable Cause,FTW89MA047_N935F,1989,02
+Accident,1989-02-09,"SALT LAKE CITY, UT",United States,Fatal,Unknown,Douglas,DC-9-32F,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,One or More,VMC,Climb,Probable Cause,FTW89MA047_N935F,1989,02
 Accident,1989-02-13,"TYLER, TX",United States,Fatal,Destroyed,Mbb,BK-117 A-1,No,2.0,Turbo Shaft,Unknown,One or More,Zero,Zero,Zero,IMC,Cruise,Probable Cause,FTW89FA049_N7025L,1989,02
 Accident,1989-02-24,"HONOLULU, HI",United States,Fatal,Substantial,Boeing,747-122,No,4.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,VMC,Climb,Probable Cause,DCA89MA027_N4713U,1989,02
 Accident,1989-02-28,"SAN DIEGO, CA",United States,Fatal,Destroyed,Mitsubishi,MU-2B-20F,No,2.0,Turbo Prop,Public Aircraft,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,BFO89LA023_N701DM,1989,02
 Accident,1989-03-15,"WEST LAFAYETTE, IN",United States,Fatal,Destroyed,Nihon,YS-11A-600,No,2.0,Turbo Prop,Unknown,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,CHI89MA057_N128MP,1989,03
-Accident,1989-03-18,"SAGINAW, TX",United States,Fatal,Destroyed,Mcdonnell douglas,DC-9-33F,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Standing,Probable Cause,DCA89MA035_N931F,1989,03
+Accident,1989-03-18,"SAGINAW, TX",United States,Fatal,Destroyed,Douglas,DC-9-33F,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Standing,Probable Cause,DCA89MA035_N931F,1989,03
 Accident,1989-03-26,"COINJOCK, NC",United States,Fatal,Destroyed,Mbb,BK-117-A-3,No,2.0,Turbo Shaft,Public Aircraft,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,ATL89FA116_N39187,1989,03
 Accident,1989-05-02,"SUMMERLAND KEY, FL",United States,Fatal,Destroyed,Douglas,C-47,No,2.0,Reciprocating,Public Aircraft,One or More,Zero,Zero,Zero,VMC,Maneuvering,Probable Cause,MIA89GA144_N28889,1989,05
 Accident,1989-05-03,"NEW IBERIA, LA",United States,Fatal,Destroyed,"Smith, ted aerostar",601,No,2.0,Reciprocating,Business,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,FTW89FA089_N90619,1989,05
@@ -222,14 +222,14 @@ Accident,1989-05-06,"MT. PLEASANT, TN",United States,Fatal,Destroyed,Embraer,EMB
 Accident,1989-05-22,"WATERMAN, IL",United States,Fatal,Destroyed,Douglas,DC3C-S13CG,No,2.0,Reciprocating,Instructional,One or More,Zero,Zero,Zero,VMC,Maneuvering,Probable Cause,CHI89MA095_N47CE,1989,05
 Accident,1989-06-29,"CARTERSVILLE, GA",United States,Fatal,Destroyed,Dassault-breguet,FALCON 20,No,2.0,Turbo Fan,Positioning,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,ATL89FA171_N125CA,1989,06
 Accident,1989-07-16,"HOUSTON, TX",United States,Fatal,Destroyed,Piccard,AX-6,No,0.0,Unknown,Personal,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,FTW89FA136_N85DP,1989,07
-Accident,1989-07-19,"SIOUX CITY, IA",United States,Fatal,Destroyed,Mcdonnell douglas,DC-10-10,No,3.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,VMC,Cruise,Probable Cause,DCA89MA063_N1819U,1989,07
+Accident,1989-07-19,"SIOUX CITY, IA",United States,Fatal,Destroyed,Douglas,DC-10-10,No,3.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,VMC,Cruise,Probable Cause,DCA89MA063_N1819U,1989,07
 Accident,1989-09-03,"HOUMA, LA",United States,Fatal,Destroyed,Aerospatiale,AS-355F-1,No,2.0,Turbo Shaft,Positioning,One or More,Zero,Zero,Zero,VMC,Climb,Probable Cause,FTW89FA159B_N5796P,1989,09
 Accident,1989-09-10,"KAILUA-KONA, HI",United States,Fatal,Destroyed,Aero commander,680FLP,No,2.0,Reciprocating,Personal,One or More,One or More,Zero,Zero,VMC,Takeoff,Probable Cause,LAX89FA307_N22LR,1989,09
 Accident,1989-09-15,"BUENA VISTA, CO",United States,Fatal,Substantial,Let,L-13,No,0.0,Unknown,Personal,One or More,One or More,Zero,Zero,VMC,Maneuvering,Probable Cause,DEN89LA210_N3458,1989,09
 Accident,1989-09-20,"TUCKERTON, NJ",United States,Fatal,Destroyed,Mbb,BO-105CB-4,Yes,2.0,Turbo Shaft,Unknown,One or More,Zero,Zero,Zero,VMC,Maneuvering,Probable Cause,NYC89FA220_N5353V,1989,09
 Accident,1989-09-20,"FLUSHING, NY",United States,Fatal,Destroyed,Boeing,737-400,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,IMC,Takeoff,Probable Cause,DCA89MA074_N416US,1989,09
 Accident,1989-09-27,"GRAND CANYON, AZ",United States,Fatal,Destroyed,De havilland,DHC-6-300,No,2.0,Turbo Prop,Unknown,One or More,One or More,One or More,Zero,VMC,Landing,Probable Cause,DCA89MA076_N75GC,1989,09
-Accident,1989-10-07,"ORLANDO, FL",United States,Fatal,Unknown,Mcdonnell douglas,DC-9-31,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,One or More,VMC,Taxi,Probable Cause,MIA90FA008_N958VJ,1989,10
+Accident,1989-10-07,"ORLANDO, FL",United States,Fatal,Unknown,Douglas,DC-9-31,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,One or More,VMC,Taxi,Probable Cause,MIA90FA008_N958VJ,1989,10
 Accident,1989-10-10,"LACEY TOWNSHIP, NJ",United States,Fatal,Destroyed,Agusta,A109A MKII,No,2.0,Turbo Shaft,Unknown,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,NYC90MA009_N21FL,1989,10
 Accident,1989-10-28,"HALAWA,MOLOKAI, HI",United States,Fatal,Destroyed,De havilland,DHC-6-300,No,2.0,Turbo Prop,Unknown,One or More,Zero,Zero,Zero,IMC,Cruise,Probable Cause,DCA90MA005_N707PV,1989,10
 Accident,1989-11-02,"APOPKA, FL",United States,Fatal,Destroyed,"Smith, ted aerostar",AEROSTAR 600,No,2.0,Reciprocating,Unknown,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,MIA90FA021_N7526S,1989,11
@@ -261,20 +261,20 @@ Accident,1990-09-06,"NASHVILLE, TN",United States,Fatal,Destroyed,Mitsubishi,MU-
 Accident,1990-09-11,"ALBUQUERQUE, NM",United States,Fatal,Destroyed,Morane-saulnier,MS760,No,2.0,Turbo Jet,Business,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,DEN90FA184_N23ST,1990,09
 Accident,1990-09-20,"MARANA, AZ",United States,Fatal,Destroyed,Boeing,707-321B,No,4.0,Turbo Fan,Ferry,One or More,One or More,Zero,Zero,VMC,Takeoff,Probable Cause,DCA90MA055_N320MJ,1990,09
 Accident,1990-09-29,"LAKEPORT, CA",United States,Fatal,Destroyed,Lockheed,PV-2,No,2.0,Reciprocating,Personal,One or More,Zero,Zero,Zero,VMC,Other,Probable Cause,LAX90FA336_N7250C,1990,09
-Accident,1990-10-03,"CAPE CANAVERAL, FL",United States,Fatal,Unknown,Mcdonnell douglas,DC-9-31,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,VMC,Cruise,Probable Cause,MIA91LA005_N8923E,1990,10
+Accident,1990-10-03,"CAPE CANAVERAL, FL",United States,Fatal,Unknown,Douglas,DC-9-31,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,VMC,Cruise,Probable Cause,MIA91LA005_N8923E,1990,10
 Accident,1990-10-06,"BERNALILLO, NM",United States,Fatal,Destroyed,Raven,S-55A,No,0.0,Unknown,Personal,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,DEN91LA003_N4062H,1990,10
 Accident,1990-10-11,"Deadhorse, AK",United States,Fatal,Destroyed,Gulfstream aerospace,690C,No,2.0,Turbo Prop,Public Aircraft,One or More,Unknown,Unknown,Unknown,VMC,Unknown,Probable Cause,ANC91GAMS1_N45Q,1990,10
 Accident,1990-11-03,"FORT LAUDERDALE, FL",United States,Fatal,Destroyed,Aero commander,680V,No,2.0,Turbo Prop,Unknown,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,MIA91FA020_N541F,1990,11
 Accident,1990-11-19,"CAMERON, LA",United States,Fatal,Destroyed,Mbb,BO 105CB4,No,2.0,Turbo Shaft,Positioning,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,FTW91FA016_N3536T,1990,11
 Accident,1990-11-30,"RYDERWOOD, WA",United States,Fatal,Destroyed,Aero commander,690A,No,2.0,Turbo Prop,Personal,One or More,One or More,Zero,Zero,VMC,Descent,Probable Cause,SEA91FA027_N400N,1990,11
-Accident,1990-12-03,"ROMULUS, MI",United States,Fatal,Destroyed,Mcdonnell douglas,DC-9-14,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,IMC,Taxi,Probable Cause,DCA91MA010A_N3313L,1990,12
+Accident,1990-12-03,"ROMULUS, MI",United States,Fatal,Destroyed,Douglas,DC-9-14,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,IMC,Taxi,Probable Cause,DCA91MA010A_N3313L,1990,12
 Accident,1990-12-03,"ROMULUS, MI",United States,Fatal,Substantial,Boeing,727-251,No,3.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,IMC,Takeoff,Probable Cause,DCA91MA010B_N278US,1990,12
 Accident,1990-12-11,"COLUMBUS, OH",United States,Fatal,Destroyed,Aerostar,S-60A,No,0.0,Unknown,Personal,One or More,Zero,Zero,Zero,VMC,Climb,Probable Cause,NYC91FA046_N3589J,1990,12
 Accident,1991-01-26,"SONESTOWN, PA",United States,Fatal,Destroyed,Mbb,BK 117 B-1,No,2.0,Turbo Shaft,Other Work Use,One or More,Zero,Zero,Zero,IMC,Cruise,Probable Cause,NYC91FA067_N891GM,1991,01
 Accident,1991-02-01,"LOS ANGELES, CA",United States,Fatal,Destroyed,Fairchild,SA-227-AC,No,2.0,Turbo Prop,Unknown,One or More,One or More,One or More,One or More,VMC,Standing,Probable Cause,DCA91MA018B_N683AV,1991,02
 Accident,1991-02-01,"LOS ANGELES, CA",United States,Fatal,Destroyed,Boeing,737-300,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,VMC,Landing,Probable Cause,DCA91MA018A_N388US,1991,02
 Accident,1991-02-13,"ASPEN, CO",United States,Fatal,Destroyed,Learjet,35A,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,DEN91FA043_N535PC,1991,02
-Accident,1991-02-17,"CLEVELAND, OH",United States,Fatal,Destroyed,Mcdonnell douglas,DC-9-15,No,2.0,Turbo Jet,Unknown,One or More,Zero,Zero,Zero,IMC,Takeoff,Probable Cause,DCA91MA021_N565PC,1991,02
+Accident,1991-02-17,"CLEVELAND, OH",United States,Fatal,Destroyed,Douglas,DC-9-15,No,2.0,Turbo Jet,Unknown,One or More,Zero,Zero,Zero,IMC,Takeoff,Probable Cause,DCA91MA021_N565PC,1991,02
 Accident,1991-02-22,"TULSA, OK",United States,Fatal,Destroyed,Mitsubishi,MU-2B-60,No,2.0,Turbo Prop,Unknown,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,FTW91FA043_N274MA,1991,02
 Accident,1991-03-03,"COLORADO SPGS, CO",United States,Fatal,Destroyed,Boeing,737-291,No,2.0,Turbo Jet,Unknown,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,DCA91MA023_N999UA,1991,03
 Accident,1991-03-16,"SAN DIEGO, CA",United States,Fatal,Destroyed,Hawker siddeley,DH.125-1A/522,No,2.0,Turbo Jet,Personal,One or More,Zero,Zero,Zero,VMC,Climb,Probable Cause,LAX91FA132_N831LC,1991,03
@@ -313,7 +313,7 @@ Accident,1992-03-05,"NEW CASTLE, CO",United States,Fatal,Destroyed,Mitsubishi,MU
 Accident,1992-03-12,"ALCOA, TN",United States,Fatal,Destroyed,British aerospace,BAE-3101,No,2.0,Turbo Prop,Instructional,One or More,Zero,Zero,Zero,VMC,Landing,Probable Cause,ATL92FA060_N165PC,1992,03
 Accident,1992-03-22,"FLUSHING, NY",United States,Fatal,Destroyed,Fokker,28-4000,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,IMC,Takeoff,Probable Cause,DCA92MA025_N485US,1992,03
 Accident,1992-03-29,"TAOS, NM",United States,Fatal,Destroyed,Rockwell,690A,No,2.0,Turbo Prop,Personal,One or More,One or More,Zero,Zero,IMC,Takeoff,Probable Cause,FTW92FA099_N111FL,1992,03
-Accident,1992-04-08,"DAYTON, OH",United States,Fatal,Minor,Mcdonnell douglas,DC-9-32,No,2.0,Turbo Jet,Unknown,One or More,Zero,Zero,One or More,VMC,Standing,Probable Cause,NYC92LA076_N926L,1992,04
+Accident,1992-04-08,"DAYTON, OH",United States,Fatal,Minor,Douglas,DC-9-32,No,2.0,Turbo Jet,Unknown,One or More,Zero,Zero,One or More,VMC,Standing,Probable Cause,NYC92LA076_N926L,1992,04
 Accident,1992-04-22,"PERRIS, CA",United States,Fatal,Destroyed,De havilland,DHC-6-200,No,2.0,Turbo Prop,Skydiving,One or More,One or More,Unknown,Unknown,VMC,Takeoff,Probable Cause,LAX92MA183_N141PV,1992,04
 Accident,1992-04-25,"ELBERT, CO",United States,Fatal,Destroyed,Schweizer,SGS 1-34,No,0.0,Unknown,Personal,One or More,Zero,Zero,Zero,VMC,Maneuvering,Probable Cause,DEN92FA048_N7642,1992,04
 Accident,1992-05-02,"BENTON, TN",United States,Fatal,Substantial,Schreder,RS-15,Yes,0.0,Unknown,Personal,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,ATL92LA093_N17TM,1992,05
@@ -349,7 +349,7 @@ Accident,1993-03-30,"TOPANGA, CA",United States,Fatal,Unknown,Bell,412,No,0.0,Un
 Accident,1993-04-01,"BLOUNTVILLE, TN",United States,Fatal,Destroyed,Fairchild,SA227-TT,No,2.0,Turbo Prop,Executive/corporate,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,ATL93MA068_N500AK,1993,04
 Accident,1993-04-04,"CHICAGO, IL",United States,Fatal,Minor,Aerospatiale,ATR-42-300,No,2.0,Turbo Prop,Unknown,One or More,Zero,Zero,One or More,VMC,Standing,Probable Cause,CHI93FA129_N422MQ,1993,04
 Accident,1993-04-06,"CASPER, WY",United States,Fatal,Destroyed,Mitsubishi,MU-2B-35,No,2.0,Turbo Prop,Unknown,One or More,Zero,Zero,Zero,IMC,Approach,Probable Cause,SEA93FA088_N96JP,1993,04
-Accident,1993-04-06,"SHEMYA, AK",United States,Fatal,Minor,Mcdonnell douglas,MD-11,No,3.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,VMC,Cruise,Probable Cause,DCA93MA037_B2171,1993,04
+Accident,1993-04-06,"SHEMYA, AK",United States,Fatal,Minor,Douglas,MD-11,No,3.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,VMC,Cruise,Probable Cause,DCA93MA037_B2171,1993,04
 Accident,1993-04-19,"ZWINGLE, IA",United States,Fatal,Destroyed,Mitsubishi,MU-2B-60,No,2.0,Turbo Prop,Public Aircraft,One or More,Zero,Zero,Zero,IMC,Cruise,Probable Cause,DCA93GA042_N86SD,1993,04
 Accident,1993-05-25,"SANTA FE, NM",United States,Fatal,Destroyed,Fairchild,SA-226T,No,2.0,Turbo Prop,Instructional,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,FTW93FA165_N241DT,1993,05
 Accident,1993-07-14,"HORTENSE, GA",United States,Fatal,Destroyed,Sikorsky,UH-60A,No,2.0,Turbo Shaft,Public Aircraft,One or More,Zero,Zero,Zero,VMC,Maneuvering,Probable Cause,MIA93GA154_USA,1993,07
@@ -381,7 +381,7 @@ Accident,1994-07-11,"KIPTOPEKA, VA",United States,Fatal,Substantial,Sikorsky,MH-
 Accident,1994-08-02,"ST. IGNACE, MI",United States,Fatal,Minor,Grumman,HU-16,No,2.0,Reciprocating,Personal,One or More,Zero,One or More,One or More,VMC,Taxi,Probable Cause,CHI94FA262_N7025N,1994,08
 Accident,1994-08-13,"PEARBLOSSOM, CA",United States,Fatal,Destroyed,Lockheed,C-130A,No,4.0,Turbo Prop,Public Aircraft,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,LAX94FA323_N135FF,1994,08
 Accident,1994-09-08,"ALIQUIPPA, PA",United States,Fatal,Destroyed,Boeing,B-737-300,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,DCA94MA076_N513AU,1994,09
-Accident,1994-09-27,"MESA, AZ",United States,Fatal,Substantial,Mcdonnell douglas,AH-64D,No,2.0,Turbo Shaft,Unknown,One or More,One or More,Zero,One or More,VMC,Approach,Probable Cause,LAX94FA383B_R0324,1994,09
+Accident,1994-09-27,"MESA, AZ",United States,Fatal,Substantial,Douglas,AH-64D,No,2.0,Turbo Shaft,Unknown,One or More,One or More,Zero,One or More,VMC,Approach,Probable Cause,LAX94FA383B_R0324,1994,09
 Accident,1994-10-05,"ESSEX, CA",United States,Fatal,Destroyed,Aero commander,560,No,2.0,Reciprocating,Personal,One or More,Zero,Zero,Zero,UNK,Cruise,Probable Cause,LAX95FA003_N251VW,1994,10
 Accident,1994-10-08,"SPRINGFIELD, MO",United States,Fatal,Destroyed,Aero commander,690B,No,2.0,Turbo Prop,Personal,One or More,Zero,Zero,Zero,IMC,Climb,Probable Cause,CHI95FA007_N27MT,1994,10
 Accident,1994-10-15,"JONESVILLE, VA",United States,Fatal,Destroyed,Aerospatiale,AS-355,No,2.0,Turbo Shaft,Aerial Application,One or More,Zero,Zero,Zero,VMC,Maneuvering,Probable Cause,NYC95LA009_N5787A,1994,10
@@ -389,7 +389,7 @@ Accident,1994-10-27,"PINEDALE, WY",United States,Fatal,Substantial,United consul
 Accident,1994-10-31,"ROSELAWN, IN",United States,Fatal,Destroyed,Atr,ATR-72-212,No,2.0,Turbo Prop,Unknown,One or More,Zero,Zero,Zero,IMC,Maneuvering,Probable Cause,DCA95MA001_N401AM,1994,10
 Accident,1994-11-04,"PERRY, FL",United States,Fatal,Destroyed,B??lkow,BO-105S,No,2.0,Turbo Shaft,Positioning,One or More,One or More,Zero,Zero,VMC,Maneuvering,Probable Cause,MIA95FA018_N911LF,1994,11
 Accident,1994-11-08,"CAMERON, LA",United States,Fatal,Destroyed,Sikorsky,S-76A,No,2.0,Turbo Shaft,Executive/corporate,One or More,Zero,One or More,Zero,IMC,Approach,Probable Cause,CHI95FA035_N2620,1994,11
-Accident,1994-11-22,"BRIDGETON, MO",United States,Fatal,Substantial,Mcdonnell douglas,DC-9-82,No,2.0,Turbo Fan,Unknown,One or More,Unknown,Unknown,One or More,VMC,Takeoff,Probable Cause,CHI95MA044A_N954U,1994,11
+Accident,1994-11-22,"BRIDGETON, MO",United States,Fatal,Substantial,Douglas,DC-9-82,No,2.0,Turbo Fan,Unknown,One or More,Unknown,Unknown,One or More,VMC,Takeoff,Probable Cause,CHI95MA044A_N954U,1994,11
 Accident,1994-12-01,"ANN ARBOR, MI",United States,Fatal,Destroyed,Agusta,A109A II,No,2.0,Turbo Shaft,Positioning,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,CHI95FA050_N1QF,1994,12
 Accident,1994-12-13,"MORRISVILLE, NC",United States,Fatal,Destroyed,British aerospace,JETSTREAM 3201,No,2.0,Turbo Prop,Unknown,One or More,One or More,Zero,Zero,IMC,Approach,Probable Cause,DCA95MA006_N918AE,1994,12
 Accident,1994-12-14,"FRESNO, CA",United States,Fatal,Destroyed,Learjet,35A,No,2.0,Turbo Fan,Public Aircraft,One or More,One or More,One or More,Zero,VMC,Descent,Probable Cause,DCA95MA007_N521PA,1994,12
@@ -415,9 +415,9 @@ Accident,1996-01-15,"MALAD CITY, ID",United States,Fatal,Destroyed,Mitsubishi,MU
 Accident,1996-02-05,"SAINT JOHNS, AZ",United States,Fatal,Destroyed,Convair,C-131E,No,2.0,Reciprocating,Ferry,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,LAX96FA106_N131T,1996,02
 Accident,1996-04-27,"RAEFORD, NC",United States,Fatal,Unknown,De havilland,DHC-6,No,2.0,Turbo Prop,Skydiving,One or More,Unknown,Unknown,One or More,VMC,Standing,Probable Cause,MIA96LA135_N716NC,1996,04
 Accident,1996-05-11,"MIAMI, FL",United States,Fatal,Destroyed,Douglas,DC-9-32,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Climb,Probable Cause,DCA96MA054_N904VJ,1996,05
-Accident,1996-06-19,"BETHALTO, IL",United States,Fatal,Destroyed,Mcdonnell douglas,F/A-18C,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Other,Probable Cause,CHI96FA211_N16518,1996,06
+Accident,1996-06-19,"BETHALTO, IL",United States,Fatal,Destroyed,Douglas,F/A-18C,No,2.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Other,Probable Cause,CHI96FA211_N16518,1996,06
 Accident,1996-06-21,"SABINE PASS, TX",United States,Fatal,Destroyed,Mbb,BO-105,No,2.0,Turbo Shaft,Unknown,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,FTW96FA265_N2906T,1996,06
-Accident,1996-07-06,"PENSACOLA, FL",United States,Fatal,Substantial,Mcdonnell douglas,MD-88,No,2.0,Turbo Jet,Unknown,One or More,One or More,One or More,One or More,VMC,Takeoff,Probable Cause,DCA96MA068_N927DA,1996,07
+Accident,1996-07-06,"PENSACOLA, FL",United States,Fatal,Substantial,Douglas,MD-88,No,2.0,Turbo Jet,Unknown,One or More,One or More,One or More,One or More,VMC,Takeoff,Probable Cause,DCA96MA068_N927DA,1996,07
 Accident,1996-07-13,"KETCHIKAN, AK",United States,Fatal,Destroyed,Sikorsky,CH-54A,No,2.0,Turbo Shaft,Unknown,One or More,One or More,Zero,Zero,VMC,Maneuvering,Probable Cause,ANC96FA098_N541SB,1996,07
 Accident,1996-07-17,"EAST MORICHES, NY",United States,Fatal,Destroyed,Boeing,747-131,No,4.0,Turbo Fan,Unknown,One or More,Zero,Zero,Zero,VMC,Climb,Probable Cause,DCA96MA070_N93119,1996,07
 Accident,1996-07-20,"RUSSIAN MISSION, AK",United States,Fatal,Destroyed,Douglas,DC-6A,No,4.0,Reciprocating,Unknown,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,ANC96FA102_N313RS,1996,07
@@ -485,7 +485,7 @@ Accident,1999-04-01,"ST. CLAIR SHORE, MI",United States,Fatal,Destroyed,"Smith, 
 Accident,1999-04-03,"INDIAN SPRINGS, NV",United States,Fatal,Destroyed,Mbb,B0-105CBS-4,No,2.0,Turbo Shaft,Positioning,One or More,Zero,Zero,Zero,IMC,Maneuvering,Probable Cause,LAX99FA137_N105HH,1999,04
 Accident,1999-04-23,"RUIDOSO, NM",United States,Fatal,Destroyed,"Smith, ted aerostar",601P,No,2.0,Reciprocating,Personal,One or More,Zero,Zero,Zero,IMC,Takeoff,Probable Cause,DEN99FA066_N48MD,1999,04
 Accident,1999-05-28,"HUNTINGTON BCH, CA",United States,Fatal,Destroyed,Mbb,BO 105LS A-3,No,2.0,Turbo Shaft,Executive/corporate,One or More,Zero,Zero,Zero,VMC,Cruise,Probable Cause,LAX99FA200_N811CE,1999,05
-Accident,1999-06-01,"LITTLE ROCK, AR",United States,Fatal,Destroyed,Mcdonnell douglas,MD-82,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,IMC,Landing,Probable Cause,DCA99MA060_N215AA,1999,06
+Accident,1999-06-01,"LITTLE ROCK, AR",United States,Fatal,Destroyed,Douglas,MD-82,No,2.0,Turbo Fan,Unknown,One or More,One or More,One or More,One or More,IMC,Landing,Probable Cause,DCA99MA060_N215AA,1999,06
 Accident,1999-06-14,"JACKSON, KY",United States,Fatal,Destroyed,Sikorsky,S-76A,No,2.0,Turbo Shaft,Positioning,One or More,Zero,Zero,Zero,IMC,Takeoff,Probable Cause,NYC99FA140_N2743E,1999,06
 Accident,1999-07-17,"FRESNO, TX",United States,Fatal,Destroyed,Mbb,BK-117-B2,No,2.0,Turbo Shaft,Positioning,One or More,Zero,Zero,Zero,VMC,Approach,Probable Cause,FTW99FA192_N110HH,1999,07
 Accident,1999-07-23,"BETHANY, OK",United States,Fatal,Destroyed,"Smith, ted aerostar",AEROSTAR 601P,No,2.0,Reciprocating,Personal,One or More,Zero,Zero,Zero,VMC,Takeoff,Probable Cause,FTW99FA199_N345LS,1999,07
@@ -559,7 +559,7 @@ Accident,2001-06-16,"La Crosse, WI",United States,Fatal,Destroyed,Potez-air foug
 Accident,2001-06-23,"MONTAGUE, CA",United States,Fatal,Substantial,Schempp-hirth,Nimbus 3/24.5,No,0.0,Unknown,Air Race/show,Unknown,One or More,Unknown,Unknown,VMC,Landing,Probable Cause,LAX01LA220_N4427M,2001,06
 Accident,2001-07-11,"San Francisco, CA",United States,Fatal,Unknown,Boeing,757-232,No,2.0,Turbo Fan,Unknown,Unknown,One or More,One or More,One or More,VMC,Descent,Probable Cause,LAX01LA307_N644DL,2001,07
 Accident,2001-07-20,"DECATUR, TX",United States,Fatal,Substantial,Eurocopter,BK117-C1,No,2.0,Turbo Shaft,Positioning,Unknown,One or More,One or More,Unknown,VMC,Cruise,Probable Cause,FTW01LA166_N313LS,2001,07
-Accident,2001-07-25,"Detroit, MI",United States,Fatal,Unknown,Mcdonnell douglas,DC-9-51,No,2.0,Turbo Jet,Unknown,Unknown,One or More,Unknown,One or More,VMC,Descent,Probable Cause,CHI01LA245_N780NC,2001,07
+Accident,2001-07-25,"Detroit, MI",United States,Fatal,Unknown,Douglas,DC-9-51,No,2.0,Turbo Jet,Unknown,Unknown,One or More,Unknown,One or More,VMC,Descent,Probable Cause,CHI01LA245_N780NC,2001,07
 Accident,2001-08-01,"Hilton Head, SC",United States,Fatal,Destroyed,Mitsubishi,MU-2B-35,No,2.0,Turbo Prop,Positioning,One or More,Unknown,Unknown,Unknown,VMC,Approach,Probable Cause,MIA01FA206_N1VY,2001,08
 Accident,2001-08-05,"Washington, DC",United States,Fatal,Minor,De havilland,Dash 8-100,No,2.0,Turbo Prop,Unknown,One or More,Unknown,Unknown,One or More,VMC,Taxi,Probable Cause,DCA01MA056_N935HA,2001,08
 Accident,2001-08-09,"Klamath Falls, OR",United States,Fatal,Unknown,Boeing,737-500,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Cruise,Probable Cause,LAX01LA275_N512SW,2001,08
@@ -591,7 +591,7 @@ Accident,2001-11-12,"Belle Harbor, NY",United States,Fatal,Destroyed,Airbus indu
 Accident,2001-11-14,"Mud Lake, ID",United States,Fatal,Destroyed,B??lkow,BO 105 LS,No,2.0,Turbo Shaft,Positioning,Unknown,One or More,Unknown,Unknown,UNK,Climb,Probable Cause,SEA02LA014_N93LF,2001,11
 Accident,2001-11-21,"EAGLEVILLE, CA",United States,Fatal,Destroyed,Aero commander,500S,No,2.0,Reciprocating,Personal,One or More,Unknown,Unknown,Unknown,IMC,Cruise,Probable Cause,LAX02FA031_N900RA,2001,11
 Accident,2001-11-22,"Pittsburgh, PA",United States,Fatal,Destroyed,Gates learjet,25B,No,2.0,Turbo Fan,Positioning,One or More,Unknown,Unknown,Unknown,VMC,Takeoff,Probable Cause,IAD02FA018_N5UJ,2001,11
-Accident,2001-11-30,"Romulus, MI",United States,Fatal,Unknown,Mcdonnell douglas,DC-9-82,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Cruise,Probable Cause,CHI02LA043_N488AA,2001,11
+Accident,2001-11-30,"Romulus, MI",United States,Fatal,Unknown,Douglas,DC-9-82,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Cruise,Probable Cause,CHI02LA043_N488AA,2001,11
 Accident,2001-12-07,"NEWNAN, GA",United States,Fatal,Substantial,Ferguson,A 26 Vulcan SS,Yes,2.0,Reciprocating,Personal,One or More,One or More,Unknown,Unknown,VMC,Landing,Probable Cause,MIA02LA042_N6129F,2001,12
 Accident,2001-12-07,"BANNING, CA",United States,Fatal,Substantial,Burkhart grob,G102 Club Astir IIIB,No,0.0,Unknown,Personal,Unknown,One or More,Unknown,Unknown,VMC,Approach,Probable Cause,LAX02LA042_N102FC,2001,12
 Accident,2001-12-10,"Sierra Blanca, TX",United States,Fatal,Destroyed,Gates learjet,24D,No,2.0,Turbo Jet,Positioning,One or More,Unknown,Unknown,Unknown,VMC,Descent,Probable Cause,FTW02FA048_N997TD,2001,12
@@ -600,7 +600,7 @@ Accident,2001-12-20,"Boston, MA",United States,Fatal,Unknown,Raytheon,BE-1900D,N
 Accident,2002-01-12,"La Vernia, TX",United States,Fatal,Minor,Raven,S60A,No,0.0,Unknown,Other Work Use,Unknown,One or More,Unknown,One or More,VMC,Approach,Probable Cause,FTW02LA270_N804DL,2002,01
 Accident,2002-01-18,"CLEVELAND, OH",United States,Fatal,Destroyed,Mbb,BK-117 A-3,No,2.0,Turbo Shaft,Positioning,One or More,One or More,Unknown,Unknown,VMC,Maneuvering,Probable Cause,IAD02FA026_N626MB,2002,01
 Accident,2002-01-20,"BARING, WA",United States,Fatal,Substantial,Agusta,A109A II,No,2.0,Turbo Shaft,Positioning,Unknown,One or More,Unknown,Unknown,UNK,Climb,Probable Cause,SEA02FA030_N55NW,2002,01
-Accident,2002-01-24,"Indianapolis, IN",United States,Fatal,Unknown,Mcdonnell douglas,DC-9-41,No,2.0,Turbo Jet,Unknown,Unknown,One or More,Unknown,One or More,VMC,Standing,Probable Cause,CHI02LA069_N754NW,2002,01
+Accident,2002-01-24,"Indianapolis, IN",United States,Fatal,Unknown,Douglas,DC-9-41,No,2.0,Turbo Jet,Unknown,Unknown,One or More,Unknown,One or More,VMC,Standing,Probable Cause,CHI02LA069_N754NW,2002,01
 Accident,2002-01-25,"Chittenden, VT",United States,Fatal,Destroyed,Smith,Aerostar 601P,No,2.0,Reciprocating,Personal,One or More,Unknown,Unknown,Unknown,VMC,Maneuvering,Probable Cause,NYC02FA051_N104CS,2002,01
 Accident,2002-01-26,"NORTH LAS VEGAS, NV",United States,Fatal,Substantial,Cameron balloons us,N-145,No,0.0,Unknown,Other Work Use,One or More,One or More,One or More,Unknown,VMC,Approach,Probable Cause,LAX02FA069_N8004J,2002,01
 Accident,2002-02-02,"PUYALLUP, WA",United States,Fatal,Substantial,Aero commander,520,No,2.0,Reciprocating,Unknown,Unknown,One or More,One or More,Unknown,VMC,Takeoff,Probable Cause,SEA02FA036_N520SE,2002,02
@@ -612,7 +612,7 @@ Accident,2002-02-19,"Beaumont, TX",United States,Fatal,Unknown,Boeing,737-724,No
 Accident,2002-02-28,"PEORIA, AZ",United States,Fatal,Substantial,Schweizer,SGS 2-32,No,0.0,Unknown,Personal,Unknown,One or More,Unknown,One or More,VMC,Approach,Probable Cause,LAX02LA098_N2466W,2002,02
 Accident,2002-03-16,"SEDONA, AZ",United States,Fatal,Substantial,Avian,Magnum IX,No,0.0,Unknown,Other Work Use,Unknown,One or More,One or More,Unknown,VMC,Landing,Probable Cause,LAX02LA111_N2037U,2002,03
 Accident,2002-03-26,"Lakehead, CA",United States,Fatal,Destroyed,Sikorsky,S-61A,No,2.0,Turbo Shaft,Other Work Use,One or More,One or More,Unknown,Unknown,VMC,Maneuvering,Probable Cause,LAX02FA116_N318Y,2002,03
-Accident,2002-03-31,"Charlotte, NC",United States,Fatal,Minor,Mcdonnell douglas,MD-11,No,3.0,Turbo Jet,Unknown,Unknown,One or More,One or More,One or More,IMC,Cruise,Probable Cause,MIA02FA075_N809DE,2002,03
+Accident,2002-03-31,"Charlotte, NC",United States,Fatal,Minor,Douglas,MD-11,No,3.0,Turbo Jet,Unknown,Unknown,One or More,One or More,One or More,IMC,Cruise,Probable Cause,MIA02FA075_N809DE,2002,03
 Accident,2002-04-15,"Carolina, PR",United States,Fatal,Destroyed,Mitsubishi,MU-2B-35,No,2.0,Turbo Prop,Positioning,One or More,Unknown,One or More,Unknown,IMC,Maneuvering,Probable Cause,MIA02FA084_N45BS,2002,04
 Accident,2002-04-15,"Reno, NV",United States,Fatal,Unknown,Airbus industrie,A319-114,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Approach,Probable Cause,LAX02LA138_N325NB,2002,04
 Accident,2002-04-18,"Springfield, MO",United States,Fatal,Unknown,Boeing,757-200,No,2.0,Turbo Fan,Unknown,Unknown,One or More,One or More,One or More,VMC,Cruise,Probable Cause,CHI02LA111_N516AT,2002,04
@@ -649,9 +649,9 @@ Accident,2002-10-02,"West Carrollton, OH",United States,Fatal,Destroyed,Beagle a
 Accident,2002-10-03,"Morgan, UT",United States,Fatal,Destroyed,Let,Blanik L-13,No,0.0,Unknown,Personal,Unknown,One or More,Unknown,Unknown,VMC,Landing,Probable Cause,DEN03LA001_N99805,2002,10
 Accident,2002-10-23,"Jesup, GA",United States,Fatal,Destroyed,Beechcraft,A60,No,2.0,Reciprocating,Personal,One or More,Unknown,Unknown,Unknown,VMC,Cruise,Probable Cause,ATL03FA009_N73CR,2002,10
 Accident,2002-11-01,"Rayville, LA",United States,Fatal,Destroyed,Aero commander,500-B,No,2.0,Reciprocating,Business,One or More,Unknown,Unknown,Unknown,VMC,Maneuvering,Probable Cause,FTW03FA027_N1HV,2002,11
-Accident,2002-11-06,"Orlando, FL",United States,Fatal,Unknown,Mcdonnell douglas,MD-82,No,2.0,Turbo Jet,Unknown,Unknown,One or More,Unknown,One or More,VMC,Descent,Probable Cause,ATL03LA014_N479AA,2002,11
+Accident,2002-11-06,"Orlando, FL",United States,Fatal,Unknown,Douglas,MD-82,No,2.0,Turbo Jet,Unknown,Unknown,One or More,Unknown,One or More,VMC,Descent,Probable Cause,ATL03LA014_N479AA,2002,11
 Accident,2002-11-08,"Taos, NM",United States,Fatal,Destroyed,Israel aircraft industries,1124A,No,2.0,Turbo Fan,Positioning,One or More,Unknown,Unknown,Unknown,VMC,Approach,Probable Cause,FTW03FA036_N61RS,2002,11
-Accident,2002-11-09,"Flushing, NY",United States,Fatal,Unknown,Mcdonnell douglas,MD-82,No,2.0,Turbo Jet,Unknown,Unknown,One or More,One or More,One or More,VMC,Standing,Probable Cause,NYC03LA016_N452AA,2002,11
+Accident,2002-11-09,"Flushing, NY",United States,Fatal,Unknown,Douglas,MD-82,No,2.0,Turbo Jet,Unknown,Unknown,One or More,One or More,One or More,VMC,Standing,Probable Cause,NYC03LA016_N452AA,2002,11
 Accident,2002-11-28,"Minneapolis, MN",United States,Fatal,Unknown,Airbus industrie,A320-211,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Takeoff,Probable Cause,CHI03LA031_N324US,2002,11
 Accident,2002-12-06,"Fort Myers, FL",United States,Fatal,Destroyed,Raytheon,58,No,2.0,Reciprocating,Personal,One or More,Unknown,Unknown,Unknown,IMC,Go-around,Probable Cause,MIA03FA025_N241JG,2002,12
 Accident,2003-01-08,"MEDFORD, OR",United States,Fatal,Substantial,Bombardier,DHC-8-401,No,2.0,Turbo Prop,Unknown,Unknown,One or More,Unknown,One or More,VMC,Approach,Probable Cause,SEA03FA024_N409QX,2003,01
@@ -697,15 +697,15 @@ Accident,2003-07-12,"Rancho P.Verdes, CA",United States,Fatal,Destroyed,Sikorsky
 Accident,2003-07-17,"Chicago, IL",United States,Fatal,Unknown,Boeing,B777-222,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Descent,Probable Cause,CHI03LA237_N779UA,2003,07
 Accident,2003-07-22,"Wadsworth, OH",United States,Fatal,Unknown,Boeing,757-251,No,2.0,Turbo Fan,Unknown,Unknown,One or More,One or More,One or More,VMC,Climb,Probable Cause,NYC03CA169_N504US,2003,07
 Accident,2003-07-23,"Highland, MI",United States,Fatal,Unknown,Aerostar,S81A,No,0.0,Unknown,Unknown,Unknown,One or More,One or More,One or More,VMC,Approach,Probable Cause,CHI03LA224_N11BQ,2003,07
-Accident,2003-08-03,"Charlotte, NC",United States,Fatal,Unknown,Mcdonnell douglas,MD-82,No,2.0,Turbo Jet,Unknown,Unknown,One or More,Unknown,One or More,VMC,Cruise,Probable Cause,MIA03LA155_N7527A,2003,08
+Accident,2003-08-03,"Charlotte, NC",United States,Fatal,Unknown,Douglas,MD-82,No,2.0,Turbo Jet,Unknown,Unknown,One or More,Unknown,One or More,VMC,Cruise,Probable Cause,MIA03LA155_N7527A,2003,08
 Accident,2003-08-04,"Groton, CT",United States,Fatal,Destroyed,Learjet,35A,No,2.0,Turbo Fan,Positioning,One or More,Unknown,Unknown,Unknown,VMC,Maneuvering,Probable Cause,NYC03FA173_N135PT,2003,08
 Accident,2003-08-06,"Walnut Ridge, AR",United States,Fatal,Minor,Airbus industrie,A340-300,No,4.0,Turbo Fan,Unknown,Unknown,One or More,One or More,One or More,VMC,Cruise,Probable Cause,FTW03LA195_D-AIGK,2003,08
-Accident,2003-08-07,"Greeley, CO",United States,Fatal,Unknown,Mcdonnell douglas,DC-9-81,No,2.0,Turbo Jet,Unknown,Unknown,One or More,One or More,One or More,IMC,Cruise,Probable Cause,DEN03LA142_N814ME,2003,08
+Accident,2003-08-07,"Greeley, CO",United States,Fatal,Unknown,Douglas,DC-9-81,No,2.0,Turbo Jet,Unknown,Unknown,One or More,One or More,One or More,IMC,Cruise,Probable Cause,DEN03LA142_N814ME,2003,08
 Accident,2003-08-11,"Slayton, MN",United States,Fatal,Unknown,Raven,S-60A,No,0.0,Unknown,Business,Unknown,One or More,Unknown,One or More,VMC,Landing,Probable Cause,CHI03LA313_N2789N,2003,08
 Accident,2003-08-16,"Wooster, OH",United States,Fatal,Unknown,Boeing,737-800,No,2.0,Turbo Fan,Unknown,Unknown,One or More,One or More,One or More,VMC,Descent,Probable Cause,NYC03LA177_N329TZ,2003,08
 Accident,2003-08-17,"BARROW, AK",United States,Fatal,Substantial,Reims aviation,406,No,2.0,Turbo Prop,Unknown,One or More,Unknown,Unknown,Unknown,VMC,Maneuvering,Probable Cause,ANC03FA096_N6591L,2003,08
 Accident,2003-09-02,"Hebron, KY",United States,Fatal,Unknown,Fairchild,Dornier 328-300,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Standing,Probable Cause,NYC03CA189_N413FJ,2003,09
-Accident,2003-09-12,"Norfolk, VA",United States,Fatal,Minor,Mcdonnell douglas,DC-9-51,No,2.0,Turbo Jet,Unknown,One or More,Unknown,Unknown,One or More,VMC,Standing,Probable Cause,NYC03LA199_N776NC,2003,09
+Accident,2003-09-12,"Norfolk, VA",United States,Fatal,Minor,Douglas,DC-9-51,No,2.0,Turbo Jet,Unknown,One or More,Unknown,Unknown,One or More,VMC,Standing,Probable Cause,NYC03LA199_N776NC,2003,09
 Accident,2003-09-19,"LONE PINE, CA",United States,Fatal,Substantial,Schempp-hirth,Standard Cirrus,No,0.0,Unknown,Personal,One or More,Unknown,Unknown,Unknown,VMC,Takeoff,Probable Cause,LAX03LA291_N71DA,2003,09
 Accident,2003-09-19,"Del Rio, TX",United States,Fatal,Destroyed,Learjet,25B,No,2.0,Turbo Jet,Positioning,One or More,One or More,Unknown,Unknown,VMC,Landing,Probable Cause,FTW03FA229_N666TW,2003,09
 Accident,2003-09-20,"Beaumont, TX",United States,Fatal,Destroyed,Hawker siddeley,HS-125-700A,No,2.0,Turbo Fan,Instructional,One or More,Unknown,Unknown,Unknown,VMC,Maneuvering,Probable Cause,DEN03FA155_N45BP,2003,09
@@ -736,7 +736,7 @@ Accident,2004-05-14,"Ferndale, MD",United States,Fatal,Destroyed,Mitsubishi,MU-2
 Accident,2004-05-22,"Alexandria, PA",United States,Fatal,Destroyed,Masak,Scimitar,Yes,0.0,Unknown,Personal,One or More,Unknown,Unknown,Unknown,VMC,Maneuvering,Probable Cause,IAD04LA022_N12PX,2004,05
 Accident,2004-05-22,"Ridgeway, CO",United States,Fatal,Minor,Lindstrand balloons,180A,No,0.0,Unknown,Personal,Unknown,One or More,One or More,One or More,VMC,Landing,Probable Cause,DEN04CA072_N60181,2004,05
 Accident,2004-05-23,"Whately, MA",United States,Fatal,Minor,Cameron balloons,N90,No,0.0,Unknown,Other Work Use,Unknown,One or More,Unknown,One or More,VMC,Approach,Probable Cause,NYC04CA128_N6123U,2004,05
-Accident,2004-05-26,"Near St. Louis, MO",United States,Fatal,Unknown,Mcdonnell douglas,DC-9-82 (MD-82),No,2.0,Turbo Jet,Unknown,Unknown,One or More,One or More,One or More,VMC,Descent,Probable Cause,CHI04LA127_N573AA,2004,05
+Accident,2004-05-26,"Near St. Louis, MO",United States,Fatal,Unknown,Douglas,DC-9-82 (MD-82),No,2.0,Turbo Jet,Unknown,Unknown,One or More,One or More,One or More,VMC,Descent,Probable Cause,CHI04LA127_N573AA,2004,05
 Accident,2004-06-03,"DURANGO, CO",United States,Fatal,Substantial,Let,Blanik L-13,No,0.0,Unknown,Personal,Unknown,One or More,One or More,Unknown,VMC,Landing,Probable Cause,DEN04CA085_N99860,2004,06
 Accident,2004-06-04,"Liberal, KS",United States,Fatal,Unknown,Boeing,737-7H4,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Cruise,Probable Cause,CHI04LA148_N757LV,2004,06
 Accident,2004-06-12,"Pueblo, CO",United States,Fatal,Destroyed,Hispano aviacion,HA-200,No,2.0,Turbo Jet,Personal,One or More,Unknown,Unknown,Unknown,VMC,Takeoff,Probable Cause,DEN04LA089_N611HA,2004,06
@@ -744,7 +744,7 @@ Accident,2004-06-17,"Aurora, OR",United States,Fatal,Minor,Balloon works,Fire Fl
 Accident,2004-07-10,"Huntersville, NC",United States,Fatal,Unknown,Thunder & colt ltd,210A,No,0.0,Unknown,Business,Unknown,One or More,One or More,Unknown,VMC,Landing,Probable Cause,ATL04LA198_N91101,2004,07
 Accident,2004-07-11,"Albuquerque, NM",United States,Fatal,Unknown,Lindstrand balloons,120A,No,0.0,Unknown,Business,Unknown,One or More,One or More,One or More,VMC,Landing,Probable Cause,DEN04CA103_N410LB,2004,07
 Accident,2004-07-12,"BEEF ISLAND, VI",United States,Fatal,Substantial,Convair div. of gen. dynamics,440,No,2.0,Turbo Prop,Unknown,One or More,One or More,Unknown,Unknown,VMC,Cruise,Probable Cause,ATL04LA153_N4826C,2004,07
-Accident,2004-07-15,"Sheridan, IL",United States,Fatal,Unknown,Mcdonnell douglas,DC-9-82,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Descent,Probable Cause,CHI04LA196_N585AA,2004,07
+Accident,2004-07-15,"Sheridan, IL",United States,Fatal,Unknown,Douglas,DC-9-82,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Descent,Probable Cause,CHI04LA196_N585AA,2004,07
 Accident,2004-07-17,"Flat Rock, VA",United States,Fatal,Unknown,Airbus industrie,A319,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Descent,Probable Cause,NYC04LA168_N812AW,2004,07
 Accident,2004-07-21,"Snow Hill, VA",United States,Fatal,Unknown,Bombardier,CL-600,No,2.0,Turbo Fan,Unknown,Unknown,One or More,Unknown,One or More,VMC,Maneuvering,Probable Cause,NYC04LA174_N995CA,2004,07
 Accident,2004-07-24,"Middletown, OH",United States,Fatal,Minor,Avian,Falcon II,No,0.0,Unknown,Personal,Unknown,One or More,Unknown,One or More,VMC,Landing,Probable Cause,NYC04CA177_N15053,2004,07
@@ -791,7 +791,7 @@ Accident,2005-04-29,"Little Rock, AR",United States,Fatal,Unknown,Boeing,737-700
 Accident,2005-05-05,"NORTH LAS VEGAS, NV",United States,Fatal,Substantial,Gulfstream,695A,No,2.0,Turbo Prop,Personal,One or More,One or More,One or More,Unknown,VMC,Cruise,Probable Cause,LAX05LA151_N337DR,2005,05
 Accident,2005-05-08,"Del Mar, CA",United States,Fatal,Unknown,Ultramagic,N-250,No,0.0,Unknown,Other Work Use,Unknown,One or More,Unknown,One or More,VMC,Landing,Probable Cause,LAX05LA162_N3002J,2005,05
 Accident,2005-05-10,"MINNEAPOLIS, MN",United States,Fatal,Substantial,Airbus industrie,A-319-114,No,2.0,Turbo Fan,Unknown,Unknown,One or More,One or More,One or More,VMC,Taxi,Probable Cause,CHI05MA111B_N368NB,2005,05
-Accident,2005-05-10,"MINNEAPOLIS, MN",United States,Fatal,Substantial,Mcdonnell douglas,DC-9-51,No,2.0,Turbo Fan,Unknown,Unknown,One or More,One or More,One or More,VMC,Climb,Probable Cause,CHI05MA111A_N763NC,2005,05
+Accident,2005-05-10,"MINNEAPOLIS, MN",United States,Fatal,Substantial,Douglas,DC-9-51,No,2.0,Turbo Fan,Unknown,Unknown,One or More,One or More,One or More,VMC,Climb,Probable Cause,CHI05MA111A_N763NC,2005,05
 Accident,2005-05-14,"JEAN, NV",United States,Fatal,Substantial,Schweizer,SGS 1-26E,No,0.0,Unknown,Personal,Unknown,One or More,Unknown,Unknown,VMC,Cruise,Probable Cause,LAX05LA171_N633S,2005,05
 Accident,2005-05-18,"SHREVEPORT, LA",United States,Fatal,Substantial,Aerostar international inc.,S53A,No,0.0,Unknown,Personal,One or More,Unknown,Unknown,Unknown,VMC,Cruise,Probable Cause,DFW05LA125_N699WH,2005,05
 Accident,2005-05-21,"Augusta, GA",United States,Fatal,Unknown,Canadair,CL600,No,2.0,Turbo Fan,Positioning,Unknown,One or More,Unknown,One or More,VMC,Climb,Probable Cause,ATL05CA085_N699CW,2005,05
