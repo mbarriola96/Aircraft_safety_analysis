@@ -24,23 +24,6 @@ To further understand the data:
 - https://www.risingup.com/fars/info/  
 - https://www.usatoday.com/story/travel/flights/2017/02/28/busiest-times-of-year-to-fly/98484452/
 
-## Conclusion
-
-The final business recommendations were done based on the following visualizations:
-
-![Business Recommendation 1](/visualizations/Business Recommendation 1.png)
-
-Invest in multi-engine aircraft for enhanced safety and reliability
-
-![Business Recommendation 2](/visualizations/Business Recommendation 2.png)
-
-Prioritize investment in aircraft with Turbo Shaft, Turbo Prop, or Turbo Jet engines for better performance and efficiency
-
-![Business Recommendation 3](/visualizations/Business Recommendation 3.png)
-
-Focus investments on aircraft makers with lower historical injury rates, such as: Beech, Bell, and Boeing
-
-
 ## Presentation
 
 Please find here the link to the project presentation: 
@@ -74,12 +57,17 @@ Our three primary recommendations are as follows:
 
 1. Invest in Multi-Engine Aircraft: Our data analysis indicates that aircraft with multiple engines have historically reported fewer incidents and injuries, suggesting enhanced safety and reliability.
 
+![Business Recommendation 1](visualizations/Business_Recommendation_1.png)
+
 2. Select Aircraft with Advanced Engine Types: Aircraft equipped with Turbo Shaft, Turbo Prop, or Turbo Jet engines show a lower risk profile compared to those with Reciprocating engines, signaling better performance and efficiency.
+
+![Business Recommendation 2](visualizations/Business_Recommendation_2.png)
 
 3. Choose Manufacturers with Strong Safety Records: Among the aircraft makers analyzed, investing in those with the lowest historical rates of serious incidents, such as: Beech, Bell, and Boeing, will likely result in a safer fleet and better operational outcomes.
 
-These recommendations aim to provide the board of the company with a data-driven foundation for making informed aircraft purchase decisions. By focusing on safety, reliability, and performance, the company is poised to establish a robust aviation portfolio that aligns with its commitment to excellence and strategic growth.
+![Business Recommendation 3](visualizations/Business_Recommendation_3.png)
 
+These recommendations aim to provide the board of the company with a data-driven foundation for making informed aircraft purchase decisions. By focusing on safety, reliability, and performance, the company is poised to establish a robust aviation portfolio that aligns with its commitment to excellence and strategic growth.
 
 ## Author
 
