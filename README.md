@@ -57,15 +57,15 @@ Our three primary recommendations are as follows:
 
 1. Invest in Multi-Engine Aircraft: Our data analysis indicates that aircraft with multiple engines have historically reported fewer incidents and injuries, suggesting enhanced safety and reliability.
 
-![Business Recommendation 1](visualizations/Business_Recommendation_1.png)
+![Business Recommendation 1](/visualizations/Business_Recommendation_1.png)
 
 2. Select Aircraft with Advanced Engine Types: Aircraft equipped with Turbo Shaft, Turbo Prop, or Turbo Jet engines show a lower risk profile compared to those with Reciprocating engines, signaling better performance and efficiency.
 
-![Business Recommendation 2](visualizations/Business_Recommendation_2.png)
+![Business Recommendation 2](/visualizations/Business_Recommendation_2.png)
 
 3. Choose Manufacturers with Strong Safety Records: Among the aircraft makers analyzed, investing in those with the lowest historical rates of serious incidents, such as: Beech, Bell, and Boeing, will likely result in a safer fleet and better operational outcomes.
 
-![Business Recommendation 3](visualizations/Business_Recommendation_3.png)
+![Business Recommendation 3](/visualizations/Business_Recommendation_3.png)
 
 These recommendations aim to provide the board of the company with a data-driven foundation for making informed aircraft purchase decisions. By focusing on safety, reliability, and performance, the company is poised to establish a robust aviation portfolio that aligns with its commitment to excellence and strategic growth.
 
