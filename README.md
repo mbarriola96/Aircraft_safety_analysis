@@ -8,6 +8,8 @@ This is a project that studies aircraft accidents and incidents from the year 19
 
 *Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.*
 
+## Methodology
+
 These are steps followed in order to perform the aircraft analysis:
 - 1. Descriptive Statistics
 - 2. Making a primary key
@@ -23,6 +25,42 @@ Dataset: https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-syn
 To further understand the data: 
 - https://www.risingup.com/fars/info/  
 - https://www.usatoday.com/story/travel/flights/2017/02/28/busiest-times-of-year-to-fly/98484452/
+
+
+## Conclusion
+
+After a comprehensive analysis of historical aircraft incident and accident data spanning from 1948 to 2022, our research has culminated in targeted recommendations for the company's strategic entry into the aviation market. The key findings of our study have highlighted the importance of investing in aircraft with a proven safety record to minimize risk and liability.
+
+Our three primary recommendations are as follows:
+
+1. First business recommendation: Invest in multi-engine aircraft for enhanced safety and reliability.
+
+2. Second business recommendation: Prioritize investment in aircraft with Turbo Shaft, Turbo Prop, or Turbo Jet engines for better performance and efficiency.
+
+3. Third business recommendation: Focus investments on aircraft makers with lower historical injury rates, such as: Beech, Bell, and Boeing.
+
+Please find bellow a their description in more detail:
+
+1. Invest in Multi-Engine Aircraft: Our data analysis indicates that aircraft with multiple engines have historically reported fewer incidents and injuries, suggesting enhanced safety and reliability.
+
+![Business Recommendation 1](/visualizations/Business_Recommendation_1.png)
+
+2. Select Aircraft with Advanced Engine Types: Aircraft equipped with Turbo Shaft, Turbo Prop, or Turbo Jet engines show a lower risk profile compared to those with Reciprocating engines, signaling better performance and efficiency.
+
+![Business Recommendation 2](/visualizations/Business_Recommendation_2.png)
+
+3. Choose Manufacturers with Strong Safety Records: Among the aircraft makers analyzed, investing in those with the lowest historical rates of serious incidents, such as: Beech, Bell, and Boeing, will likely result in a safer fleet and better operational outcomes.
+
+![Business Recommendation 3](/visualizations/Business_Recommendation_3.png)
+
+These recommendations aim to provide the board of the company with a data-driven foundation for making informed aircraft purchase decisions. By focusing on safety, reliability, and performance, the company is poised to establish a robust aviation portfolio that aligns with its commitment to excellence and strategic growth.
+
+## Author
+
+My name is Miguel Barriola Arranz. I am an Industrial Engineer and a Duke graduate student in Engineering Management. 
+I am currently working in the microchip industry and further expanding my skillset in data science. 
+
+- LinkedIn: https://www.linkedin.com/in/miguel-barriola-arranz/
 
 ## Presentation
 
@@ -49,30 +87,4 @@ There is a results_data folder that contains the filtered dataset from all the a
 
 There is a branch named feature/phase1 to work in the project and I have done a pull request to **develop**. This is the branch that contains all the updated information.
 
-## Conclusion
-
-After a comprehensive analysis of historical aircraft incident and accident data spanning from 1948 to 2022, our research has culminated in targeted recommendations for the company's strategic entry into the aviation market. The key findings of our study have highlighted the importance of investing in aircraft with a proven safety record to minimize risk and liability.
-
-Our three primary recommendations are as follows:
-
-1. Invest in Multi-Engine Aircraft: Our data analysis indicates that aircraft with multiple engines have historically reported fewer incidents and injuries, suggesting enhanced safety and reliability.
-
-![Business Recommendation 1](/visualizations/Business_Recommendation_1.png)
-
-2. Select Aircraft with Advanced Engine Types: Aircraft equipped with Turbo Shaft, Turbo Prop, or Turbo Jet engines show a lower risk profile compared to those with Reciprocating engines, signaling better performance and efficiency.
-
-![Business Recommendation 2](/visualizations/Business_Recommendation_2.png)
-
-3. Choose Manufacturers with Strong Safety Records: Among the aircraft makers analyzed, investing in those with the lowest historical rates of serious incidents, such as: Beech, Bell, and Boeing, will likely result in a safer fleet and better operational outcomes.
-
-![Business Recommendation 3](/visualizations/Business_Recommendation_3.png)
-
-These recommendations aim to provide the board of the company with a data-driven foundation for making informed aircraft purchase decisions. By focusing on safety, reliability, and performance, the company is poised to establish a robust aviation portfolio that aligns with its commitment to excellence and strategic growth.
-
-## Author
-
-My name is Miguel Barriola Arranz. I am an Industrial Engineer and a Duke graduate student in Engineering Management. 
-I am currently working in the microchip industry and further expanding my skillset in data science. 
-
-- LinkedIn: https://www.linkedin.com/in/miguel-barriola-arranz/
 
