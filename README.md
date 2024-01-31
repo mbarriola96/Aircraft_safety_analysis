@@ -39,7 +39,7 @@ Our three primary recommendations are as follows:
 
 3. Third business recommendation: Focus investments on aircraft makers with lower historical injury rates, such as: Beech, Bell, and Boeing.
 
-Please find bellow a their description in more detail:
+Please find bellow a more detailed description of them:
 
 1. Invest in Multi-Engine Aircraft: Our data analysis indicates that aircraft with multiple engines have historically reported fewer incidents and injuries, suggesting enhanced safety and reliability.
 
